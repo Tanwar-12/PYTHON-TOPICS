@@ -24,7 +24,7 @@
 
 * [Python Typecasting](https://www.youtube.com/watch?v=iDunq2m4mNo&pp=ygUUcHl0aG9uIHR5cGUgY2FzdGluZyA%3D)
 
-* [Python Typechecking 7 TypeCasting](https://www.youtube.com/watch?v=mhTPb_sVfvE)
+* [Python Typechecking & TypeCasting](https://www.youtube.com/watch?v=mhTPb_sVfvE)
 
 * 
 
