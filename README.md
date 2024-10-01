@@ -26,5 +26,22 @@
 
 * [Python Typechecking & TypeCasting](https://www.youtube.com/watch?v=mhTPb_sVfvE)
 
+#### Conditional Structures:
+* [Conditional Statements](https://www.youtube.com/watch?v=khi-3MJEXG0&pp=ygUeY29udHJvbCBzdGF0ZW1lbnRzIGluIHB5dGhvbiAg)
+
+* [Loops](https://www.youtube.com/watch?v=M0RsvJnaGYg)
+
+* [Looping with Condition](https://www.youtube.com/watch?v=QE6RJWyFB1M&pp=ygUjIGxvb3BpbmcgIHdpdGggY29uZGl0aW9uIGluIHB5dGhvbiA%3D)
+
+* [Functions](https://www.youtube.com/watch?v=DsCazsOPHSc&pp=ygUVZnVuY3Rpb25zICBpbiBweXRob24g)
+
+* [Local & Global Scope](https://www.youtube.com/watch?v=3iIq6gq_xRo&pp=ygUcZnVuY3Rpb25zICBzY29wZSAgaW4gcHl0aG9uIA%3D%3D)
+
+* [Lambda Functions](https://www.youtube.com/watch?v=ww2uPkwSjjY&pp=ygUgbGFtYmRhIGZ1bmN0aW9uIGluIHB5dGhvbiB3M2N1YmU%3D)
+
+* [Built in Functions](https://www.youtube.com/watch?v=hCMnJT14XTw&pp=ygUdYnVpbHQgaW4gZnVuY3Rpb25zIGluIHB5dGhvbiA%3D)
+
 * 
+
+
 
