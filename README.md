@@ -43,11 +43,11 @@
 
 * [Data Structures](https://www.youtube.com/watch?v=f9Aje_cN_CY)
 
-* [Basic Libraries](https://www.youtube.com/watch?v=_YllXd1pukg&pp=ygUSIGxpYnJhcnkgaW4gcHl0aG9u
+* [Basic Libraries](https://www.youtube.com/watch?v=_YllXd1pukg&pp=ygUSIGxpYnJhcnkgaW4gcHl0aG9u)
 
-* (Module & Libraries](https://www.youtube.com/watch?v=bt6Y4JwXXag&pp=ygUSIGxpYnJhcnkgaW4gcHl0aG9u)
+* [Module & Libraries](https://www.youtube.com/watch?v=bt6Y4JwXXag&pp=ygUSIGxpYnJhcnkgaW4gcHl0aG9u)
 
-* 
+  
 
 
 
