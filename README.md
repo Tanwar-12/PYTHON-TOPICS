@@ -47,6 +47,14 @@
 
 * [Module & Libraries](https://www.youtube.com/watch?v=bt6Y4JwXXag&pp=ygUSIGxpYnJhcnkgaW4gcHl0aG9u)
 
+* [List , Dictionaries & Tuples](https://www.youtube.com/watch?v=f2RATcdPcrE&list=PLBlnK6fEyqRhJ_qiFbz9KZB1CO1HXBDHb)
+
+* [Key Values in detail](https://www.youtube.com/watch?v=xhf-6TSEiUs&pp=ygUja2V5IHZhbHVlIHB5dGhvbiBpbiBkZXRhaWwgaW4gaGluZGk%3D)
+
+* [Nested List](https://www.youtube.com/watch?v=KEpmUPxxjxI&pp=ygUebGlzdCBhbmQgbmVzdGVkIGxpc3QgaW4gcHl0aG9u)
+
+  
+
   
 
 
