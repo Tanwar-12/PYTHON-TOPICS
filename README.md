@@ -47,7 +47,30 @@
 
 * [Module & Libraries](https://www.youtube.com/watch?v=bt6Y4JwXXag&pp=ygUSIGxpYnJhcnkgaW4gcHl0aG9u)
 
-  
+  #### Basic Libraries:
+* [Math Module & library](https://www.youtube.com/watch?v=vrCpsUMh368&pp=ygUWbWF0aCBsaWJyYXJ5IGluIHB5dGhvbg%3D%3D)
 
+* [Random Numbers](https://www.youtube.com/watch?v=CasqhmeopnU&pp=ygUXcmFuZG9tIG51bWJlciBpbiBweXRob24%3D)
 
+* [Date & Time Module](https://www.youtube.com/watch?v=tlmOm35lsps)
+
+### 2.Intermediate Python
+* [File Handling](https://www.youtube.com/watch?v=ETvuSF-5qUo&list=PLI4OVrCFuY55ZrOMkfYNt7CQGEkskxJlj)
+
+#### Oops:
+* [Objects & Classes](https://www.youtube.com/watch?v=bjM1JjGzvb8)
+
+* [Methods & Constructors](https://www.youtube.com/watch?v=qz_bnx84Xe0)
+
+* [Attributes](https://www.youtube.com/watch?v=d8TbkRvNJR0&pp=ygUqYXR0cmlidXRlcyAgaW4gb29wcyAgaW4gcHl0aG9uIHByb2dyYW1taW5n)
+
+* [Inheritance](https://www.youtube.com/watch?v=w2jV9qZ6PGo&pp=ygUhaW5oZXJpdGFuY2UgaW4gcHl0aG9uIHByb2dyYW1taW5n)
+
+* [Polymorphism](https://www.youtube.com/watch?v=drb9efyRMOM&pp=ygUjIHBvbHltb3JwaGlzbSBpbiBweXRob24gcHJvZ3JhbW1pbmc%3D)
+
+* [Abstraction](https://www.youtube.com/watch?v=O-NrQvtorp0&pp=ygUiYWJzdHJhY3Rpb24gIGluIHB5dGhvbiBwcm9ncmFtbWluZw%3D%3D)
+
+* [Encapsulation](https://www.youtube.com/watch?v=3V90qEND-1o&pp=ygUjZW5jYXBzdWxhdGlvbiBpbiBweXRob24gcHJvZ3JhbW1pbmc%3D)
+
+* [Class & Static Methods](https://www.youtube.com/watch?v=FadAhp5I0ok)
 
